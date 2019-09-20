@@ -1,0 +1,14 @@
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\bin\Debug\netstandard2.0\ExtraPoints.deps.json
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\bin\Debug\netstandard2.0\ExtraPoints.dll
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.csprojAssemblyReference.cache
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.csproj.CoreCompileInputs.cache
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.AssemblyInfoInputs.cache
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.AssemblyInfo.cs
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\bin\Debug\netstandard2.0\ref\ExtraPoints.dll
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\bin\Debug\netstandard2.0\ExtraPoints.pdb
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.dll
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ref\ExtraPoints.dll
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\ExtraPoints.pdb
+C:\Users\enman\source\repos\ExtraPoints\ExtraPoints\ExtraPoints\obj\Debug\netstandard2.0\XamlC.stamp
